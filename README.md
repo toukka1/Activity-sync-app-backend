@@ -43,8 +43,8 @@ The server will be available at `http://127.0.0.1:8000`.
 
 | Method | Endpoint                     | Description                   |
 |--------|------------------------------|-------------------------------|
-| `POST` | `/auth/exchange-token`       | Handle auth token exchange.   |
-| `POST` | `/activities/refresh-token`  | Handle access token refresh.  |
+| `POST` | `/exchange-token`       | Handle auth token exchange.   |
+| `POST` | `/refresh-token`  | Handle access token refresh.  |
 
 For detailed API documentation, visit `http://127.0.0.1:8000/docs`.
 
